@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Samiul Islam",
+    "dept": "CSE",
+    "roll": 23000120041,
+    "institute": "CIT Kolkata",
+    "city": "Kolkata",
+    "hometown": "Murshidabad"
+  },
+  {
+    "id": 2,
+    "name": "Subarna Islam",
+    "dept": "CSE",
+    "roll": 23000120040,
+    "institute": "Primeasia University",
+    "city": "Dhaka",
+    "hometown": "Dhaka"
+  }
+]
